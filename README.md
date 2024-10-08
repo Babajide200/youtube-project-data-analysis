@@ -21,8 +21,7 @@ Aggregation: The query uses aggregate functions like SUM() to compute the total 
 Rounding: The ROUND() function is applied to the highest yearly earnings for readability.
 Counting Youtubers: The query also uses COUNT() to track the number of Youtubers per continent.
 
-# SQL Query Breakdown
-The SQL query is divided into two main parts:
+# The SQL query is divided into two main parts:
 
 # Main Query to Aggregate YouTube Statistics by Continent:
 
